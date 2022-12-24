@@ -1,5 +1,5 @@
 # Run Nginx locally with Docker:
-
+add content to the root directory: \static-html-directory
 Build docker image:\
 docker build -t some-content-nginx . 
 # Run docker container:\
